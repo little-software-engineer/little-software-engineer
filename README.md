@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Header](./github-header-image.png)
+![Header](./your-header-image-name.png)
 
 I'm a citizen of the world!
 
