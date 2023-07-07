@@ -1,6 +1,6 @@
 
 
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 
 
 It's me, Bojana Stajić, and I'm so excited to meet you world! I'm a passionate Software Enginnering student from Serbia, always excited to learn new stuff and revise old of course.
