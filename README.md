@@ -25,8 +25,9 @@ It's me, Bojana Stajić, and I'm so excited to meet you, world! I'm a passionate
      <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="Tomcat"  alt="Tomcat" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
-      
-     
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=little-software-engineer&theme=dark&background=000000)](https://git.io/streak-stats)
     
    
    
