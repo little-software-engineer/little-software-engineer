@@ -7,6 +7,8 @@ It's me, Bojana Stajić, and I'm so excited to meet you, world! I'm a passionate
 
 - 🔭 I am currently learning JavaScript
 - ⚡ Fun fact: I laugh at my own jokes
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojanastajic/)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -30,7 +32,7 @@ It's me, Bojana Stajić, and I'm so excited to meet you, world! I'm a passionate
     
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=little-software-engineer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/bojanastajic/)
+(https://www.linkedin.com/in/bojanastajic/)
 
    
    
