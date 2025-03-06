@@ -3,7 +3,7 @@
 ![Header](./header-image.png)
 
 
-It's me, Bojana Stajić, and I'm so excited to meet you, world! I'm a passionate final year software engineering student from Serbia, always excited to learn new things and never afraid to revisit and improve my old projects.
+It's me, Bojana Stajić, and I'm so excited to meet you, world! I'm a passionate software engineer from Serbia, always excited to learn new things and never afraid to revisit and improve my old projects.
 
 - ⚡ Fun fact: I laugh at my own jokes  <br> <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bojanastajic/)
